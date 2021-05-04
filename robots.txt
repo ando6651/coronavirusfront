@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /* .css?*
+Allow: /* .js?*
+Sitemap : https://app-coronavirus-2019.herokuapp.com/sitemap_index_xml
