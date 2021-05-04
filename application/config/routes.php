@@ -55,3 +55,4 @@ $route['translate_uri_dashes'] = FALSE;
 $route['information-covid-19.html'] = '/Information/viewinfo/';
 $route['situation-actualite-statistique-covid-19-mondiale.html'] = '/Situation/viewmondiale/';
 $route['situation-actualite-statistique-covid-19-madagascar.html'] = '/Situation/viewmadagascar/';
+$route['sitemap_index_xml'] = '/sitemap.xml';
